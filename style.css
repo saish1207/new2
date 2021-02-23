@@ -1,0 +1,27 @@
+.header{
+    border: solid;
+    background-color: rgb(15, 161, 228);
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+.menu{
+    font-size: 20px;
+}
+.grid{
+    display: flex;
+    flex-wrap:wrap;
+ justify-content: space-evenly;
+   border: solid;
+    background-color: rgb(238, 147, 73);
+    
+}
+.item{
+    font-size: 17px;
+   display: flex;
+   flex-direction: column;
+color: rgb(235, 68, 118);
+background-color: rgb(250, 171, 25);
+border: solid;
+}
+
